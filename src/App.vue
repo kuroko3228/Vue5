@@ -8,6 +8,7 @@ export default {
   methods: {},
 };
 </script>
+
 <template>
   <div class="app">app</div>
 </template>
